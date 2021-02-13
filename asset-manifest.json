@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.ad5e2397.chunk.css",
-    "main.js": "/static/js/main.eae00152.chunk.js",
-    "main.js.map": "/static/js/main.eae00152.chunk.js.map",
+    "main.css": "/static/css/main.ed7dd911.chunk.css",
+    "main.js": "/static/js/main.d57e4df5.chunk.js",
+    "main.js.map": "/static/js/main.d57e4df5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8870813c.js",
     "runtime-main.js.map": "/static/js/runtime-main.8870813c.js.map",
     "static/js/2.27296854.chunk.js": "/static/js/2.27296854.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.773663e1.chunk.js": "/static/js/3.773663e1.chunk.js",
     "static/js/3.773663e1.chunk.js.map": "/static/js/3.773663e1.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.ad5e2397.chunk.css.map": "/static/css/main.ad5e2397.chunk.css.map",
+    "static/css/main.ed7dd911.chunk.css.map": "/static/css/main.ed7dd911.chunk.css.map",
     "static/js/2.27296854.chunk.js.LICENSE.txt": "/static/js/2.27296854.chunk.js.LICENSE.txt",
     "static/media/nyancat.c78714cd.gif": "/static/media/nyancat.c78714cd.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.8870813c.js",
     "static/js/2.27296854.chunk.js",
-    "static/css/main.ad5e2397.chunk.css",
-    "static/js/main.eae00152.chunk.js"
+    "static/css/main.ed7dd911.chunk.css",
+    "static/js/main.d57e4df5.chunk.js"
   ]
 }
